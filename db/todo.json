@@ -1,87 +1,26 @@
 [
   {
-    "id": "task_001",
-    "title": "Grocery Shopping",
-    "description": "Buy milk, eggs, bread, and fresh vegetables.",
-    "dueDate": "2025-07-01T18:00:00Z",
-    "completed": false,
-    "priority": "High",
-    "tags": [
-      "personal",
-      "urgent"
-    ]
+    "title": "prisma",
+    "body": "Learning prisma",
+    "createdAt": "5/18/2025, 1:25:02 AM"
   },
   {
-    "id": "task_002",
-    "title": "Finish Project Report",
-    "description": "Complete the final section and review for typos.",
-    "dueDate": "2025-07-03T09:00:00Z",
-    "completed": false,
-    "priority": "High",
-    "tags": [
-      "work",
-      "deadline"
-    ]
+    "title": "typescript",
+    "body": "learning node",
+    "createdAt": "5/18/2025, 1:25:12 AM"
   },
   {
-    "id": "task_003",
-    "title": "Call Mom",
-    "description": "Catch up and see how she's doing.",
-    "dueDate": "2025-06-30T20:00:00Z",
-    "completed": true,
-    "priority": "Medium",
-    "tags": [
-      "personal",
-      "family"
-    ]
+    "title": "express",
+    "body": "Learning advanced express",
+    "createdAt": "5/29/2025, 5:55:16 AM"
   },
   {
-    "id": "task_004",
-    "title": "Exercise",
-    "description": "Go for a 30-minute run in the park.",
-    "dueDate": "2025-07-01T07:00:00Z",
-    "completed": false,
-    "priority": "Low",
-    "tags": [
-      "health"
-    ]
+    "title": "mongodb",
+    "body": "learning mongodb",
+    "createdAt": "5/29/2025, 5:55:46 AM"
   },
   {
-    "id": "task_005",
-    "title": "Plan Weekend Trip",
-    "description": "Research destinations and accommodation options.",
-    "dueDate": "2025-07-05T17:00:00Z",
-    "completed": false,
-    "priority": "Medium",
-    "tags": [
-      "personal",
-      "travel"
-    ]
-  },
-  {
-    "id": "task_006",
     "title": "dubai shopping",
-    "description": "Buy milk, eggs, bread, and fresh vegetables. eat",
-    "completed": true,
-    "dueDate": "6/30/2025, 10:12:02 PM",
-    "priority": "High-level",
-    "tags": [
-      "personal",
-      "urgent",
-      "imideatly"
-    ]
-  },
-  {
-    "id": "task_006",
-    "title": "dubai shopping",
-    "description": "Buy milk, eggs, bread, and fresh vegetables. eat",
-    "completed": true,
-    "dueDate": "6/30/2025, 10:15:53 PM",
-    "priority": "High-level",
-    "tags": [
-      "personal",
-      "urgent",
-      "imideatly"
-    ]
+    "createdAt": "7/1/2025, 5:24:36 AM"
   }
 ]
